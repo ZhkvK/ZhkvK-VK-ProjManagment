@@ -9,5 +9,5 @@
 ![Lean Canvas](./Lean_Canvas/Lean_Canvas.jpg)
 
 ## MVP и MLP
-![MVP](./MVP/MVP^MLP.png)
-![Reqs](./MVP/FR^NFR.png)
+![MVP](./MVP/MVP&MLP.png)
+![Reqs](./MVP/FR&NFR.png)
