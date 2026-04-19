@@ -7,3 +7,7 @@
 ## Lean Canvas
 Отдельные фреймы лежат в [папке](./Lean_Canvas)
 ![Lean Canvas](./Lean_Canvas/Lean_Canvas.jpg)
+
+## MVP и MLP
+![MVP](./MVP/MVP^MLP.png)
+![Reqs](./MVP/FR^NFR.png)
