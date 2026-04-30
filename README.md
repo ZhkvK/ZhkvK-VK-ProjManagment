@@ -11,3 +11,9 @@
 ## MVP и MLP
 ![MVP](./MVP/MVP&MLP.png)
 ![Reqs](./MVP/FR&NFR.png)
+
+## Проектирование
+![DDD](./designing/DDD.jpg)
+![DDD](./designing/BDD.jpg)
+![DDD](./designing/Frames.jpg)
+![DDD](./designing/API-first.jpg)
