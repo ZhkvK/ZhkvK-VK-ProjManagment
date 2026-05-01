@@ -14,6 +14,18 @@
 
 ## Проектирование
 ![DDD](./designing/DDD.jpg)
-![DDD](./designing/BDD.jpg)
-![DDD](./designing/Frames.jpg)
-![DDD](./designing/API-first.jpg)
+![BDD](./designing/BDD.jpg)
+![Frames](./designing/Frames.jpg)
+![API-first](./designing/API-first.jpg)
+
+## Архитектура (C4)
+![Context](./architecture/Context.jpg)
+![Context](./architecture/Containers.jpg)
+### Стек технологий:
+- Frontend - **React**. Богатая экосистема и поддержка SPA;
+- Backend - **Python (django)**. Встроенная ORM и админ-панель - сэкономит время. Идеально для Datascience (целевая) и позволит без труда реализовать Python-библиотеку для импорта данных;
+- БД - **PostreSQL**. Надежный и удобный JSONB для хранения метаданных об исследовании;
+- Хранилище S3 - **Yandex Cloud Object Storage**. Соответствие требованиям о локализации данных в РФ и поддержка Pre-signed URLs для прямого доступа к данным без нагрузки на бэкенд;
+- Балансировщик - **Nginx**. Фильтрует запросы, легкая настройка HTTPS, эффективно раздает статику;
+- Кэш - **Redis**;
+- Контейниризация - **Docker**.
